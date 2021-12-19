@@ -8,7 +8,7 @@ Welcome to the **@creamcropdev** organization. We're the maintainers of [creamcr
 
 **Things to check out...**
 
-[![The creamcrop repo](https://github-readme-stats.vercel.app/api/pin/?username=creamcropdev&repo=creamcrop&theme=vue)](https://github.com/creamcropdev/reamcrop)
+[![The creamcrop repo](https://github-readme-stats.vercel.app/api/pin/?username=creamcropdev&repo=creamcrop&theme=vue)](https://github.com/creamcropdev/creamcrop)
 [![The creamcrop JSON feed parser](https://github-readme-stats.vercel.app/api/pin/?username=creamcropdev&repo=json&theme=vue)](https://github.com/creamcropdev/json)
 
 Our official website is located at [creamcrop.js.org](https://creamcrop.js.org), hosted with the help of [js.org](js.org)
